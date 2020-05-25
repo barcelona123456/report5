@@ -1,4 +1,4 @@
 echo The time and data are:
 date
-echo "Let's see who's logged into the system:"
-who
+echo "Display Directory list:"
+ls
